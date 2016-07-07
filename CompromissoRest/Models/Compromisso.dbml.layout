@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Compromisso">
+  <DataContextMoniker Name="/CompromissoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="69565291-55a3-485a-98da-3ac2366a0b3c" absoluteBounds="4.875, 1.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/CompromissoDataContext/Compromisso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="64ea1168-cff2-4c99-ba67-958db469dde4" absoluteBounds="4.89, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
